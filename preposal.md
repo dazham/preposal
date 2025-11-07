@@ -1,25 +1,52 @@
-# Preproposal
+# Proposal
 
-## What idea(s) do you have for your final project?
+## What will (likely) be the title of your project?
 
-TODO
-
-- A food ordering system that will have a menu, a discount system etc.
-- A  aim trainer using that will generate random circles in a window for user to click on and score points in a time limit
-- A personal blog site using html and css
-
-My plan is to mostly use things I have learned so far for the project from python and maybe see if I can implement some outsider stuff that was not in class. I will also have the idea of creating a personal website though I have heard that understanding css is really tough.
+    Personal Blog Site Using HTML And CSS
 
 
+## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
-## If you plan to collaborate with one or two classmates, what are their names?
+    It will be a minimal themed blog site, where I can post about different things like a trip, a project, stories etc.
 
-TODO
-- No plans to collaborate yet, I will likely do it on my own
+## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
-## Do you have any questions of your own?
+    The blog site will be a simple and clean website built using HTML and CSS, possibly with light use of JavaScript later. It will include a home page with links to individual blog posts, an about page describing me and the purpose of the blog, and a contact page. Each blog post will have its own sub pages, containing text and possibly images. I will create and organize the pages manually using HTML for structure and CSS for layout and design.
 
-TODO
-- I would like to make the aim trainer but I am not sure to what extent I can use outside information like I know it would require me to use tkinter but I have not used it before, am I allowed to use other's work like youtube tutorials to achieve this.
 
-- Similar question for css, I have discovered tailwind, will I be allowed to use such tools - tailwind, from my understanding, has some pre-made css that I can use but I can also customize and what not.
+## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
+
+    Not Applicable
+
+## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
+
+    Not Applicable
+
+## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+
+### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+
+    - Homepage is completed and has good styling
+    - Blogs are featured in the homepage
+    - Multiple blog post pages with consistent layout and styling 
+    - Blog pages contain texts atleast 
+    - An about page and a contact page 
+
+
+### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+
+    - A homepage
+    - An about page
+    - An contact page
+    - Atleast one blog page
+
+### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+
+    - All the intended pages for the website
+    - CSS looks nice and visually appealing
+    - Some javascript implementation
+    - Ability to have pictures and videos into the blog pages
+
+## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
+
+    My next steps are to create an intial plan of how I want my website to look like - designing it properly with headers, sections, links to the blog sub pages. And then working on the new skills : learning html and css. I plan to use youtube tutorials to learn them. And then, for the topics to research will be - how to use css libraries and implementing them into my website, how to implement videos and photos into my website, and lastly how can I host my website.
